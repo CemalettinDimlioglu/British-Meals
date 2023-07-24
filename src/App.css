@@ -32,7 +32,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
 .image {
   background-color: #0e3eda;
